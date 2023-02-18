@@ -1,0 +1,22 @@
+{
+    "Name": "CloutContracts",
+    "VM": "Subnet-EVM",
+    "VMVersion": "v0.4.8",
+    "RPCVersion": 22,
+    "Subnet": "CloutContracts",
+    "TokenName": "CCS",
+    "ChainID": "",
+    "Version": "1.2.1",
+    "Networks": {
+        "Local Network": {
+            "SubnetID": "2TGBXcnwx5PqiXWiqxAKUaNSqDguXNh1mxnp82jui68hxJSZAx",
+            "BlockchainID": "sUCUMnCiCwiRdtLnecpnSXwL5U9SCsfFEwV7xs4fwF7CsQsAX"
+        },
+        "Mainnet": {
+            "SubnetID": "2t3DzAaL3mUX9bm9VgCsLkw6WrGsyRu2NuTfiZUbEr8PMAzhh2",
+            "BlockchainID": "A6y1Q8MTn2duVWqQEo29XHFNe1A2CXj5kvodDgWhbwY4fqq4H"
+        }
+    },
+    "ImportedFromAPM": false,
+    "ImportedVMID": ""
+}
