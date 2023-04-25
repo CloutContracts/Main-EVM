@@ -4,5 +4,3 @@
 # CloutContracts EVM
 
 Main URL: [evm.cloutcontracts.net](evm.cloutcontracts.net)
-
-**RPC:** 178.128.110.231:9650/ext/bc/MB7LuWKg1JiQa9b8jEaxbeajpU5MSm1Mq7arxPdXPd78SJHaw/rpc
